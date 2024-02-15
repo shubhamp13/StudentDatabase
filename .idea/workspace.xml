@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e76ee1a-a4ef-4b59-a9db-f37839b0c56c" name="Changes" comment="">
+    <list default="true" id="4e76ee1a-a4ef-4b59-a9db-f37839b0c56c" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/DB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/Queries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/Queries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/student/StudentDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/student/StudentDB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +63,19 @@
       <option name="presentableId" value="Default" />
       <updated>1707953193758</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1707979346980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707979346980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
