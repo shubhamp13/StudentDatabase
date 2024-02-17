@@ -12,10 +12,11 @@ public class Main {
             String address=null;
             String phoneNo=null;
             System.out.println("Enter Your Choice:");
-            System.out.println("1.Insert Student");
-            System.out.println("2.Update Student");
-            System.out.println("3.Delete Student");
-            System.out.println("4.Display Student");
+            System.out.println("1.Insert Student:");
+            System.out.println("2.Update Student:");
+            System.out.println("3.Delete Student:");
+            System.out.println("4.Display Student:");
+            System.out.println("5.Exit from Program:");
             int choice=Integer.parseInt(bufferedReader.readLine());
             switch (choice)
             {

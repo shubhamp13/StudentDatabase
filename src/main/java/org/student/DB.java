@@ -1,8 +1,6 @@
 package org.student;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
+import java.sql.*;
 
 public class DB
 {
@@ -21,5 +19,6 @@ public class DB
 
         return connection;
     }
+
 
 }
